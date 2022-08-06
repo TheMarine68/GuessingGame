@@ -1,5 +1,3 @@
-# Earl Miller CIS261 Guessing Game Lab
-
 import random
 
 def display_title():
